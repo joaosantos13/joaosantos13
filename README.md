@@ -1,7 +1,7 @@
 ![Header](https://github.com/joaosantos13/joaosantos13/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm João Santos</h1>
 <h3 align="center">A begginer developer from Brazil</h3>
-<img align = "right" alt="Coding" width="400" src= "https"://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6>
+<img align = "right" alt="Coding" width="300" src= "https://user-images.githubusercontent.com/22770735/89309664-543b5d00-d691-11ea-9401-1780241ed053.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosantos13&label=Profile%20views&color=0e75b6&style=flat" alt="joaosantos13" /> </p>
 
