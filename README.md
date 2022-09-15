@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](https://github.com/joaosantos13/joaosantos13/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm João Santos</h1>
 <h3 align="center">A begginer developer from Brazil</h3>
 <img align = "right" alt="Coding" width="400" src= "https"://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6>
